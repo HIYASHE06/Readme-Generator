@@ -29,4 +29,4 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact the project owner directly at GitHub. You can also send an email to (<nphiyahse@gmail.com>)
+If you have any questions about the repo, open an issue or contact the project owner directly at GitHub. You can also send an email to (<nphiyashe@gmail.com>)
